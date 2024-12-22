@@ -270,10 +270,10 @@
     "@types/koa-compose" "*"
     "@types/node" "*"
 
-"@types/lodash@4.14.197":
-  version "4.14.197"
-  resolved "https://registry.npmjs.org/@types/lodash/-/lodash-4.14.197.tgz"
-  integrity sha512-BMVOiWs0uNxHVlHBgzTIqJYmj+PgCo4euloGF+5m4okL3rEYzM2EEv78mw8zWSMM57dM7kVIgJ2QDvwHSoCI5g==
+"@types/lodash@4.17.13":
+  version "4.17.13"
+  resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.17.13.tgz#786e2d67cfd95e32862143abe7463a7f90c300eb"
+  integrity sha512-lfx+dftrEZcdBPczf9d0Qv0x+j/rfNCMuC6OcfXmO8gkfeNAY88PgKUbvG56whcN23gc27yenwF6oJZXGFpYxg==
 
 "@types/mime@*":
   version "2.0.1"
@@ -285,10 +285,10 @@
   resolved "https://registry.npmjs.org/@types/node/-/node-18.17.6.tgz"
   integrity sha512-fGmT/P7z7ecA6bv/ia5DlaWCH4YeZvAQMNpUhrJjtAhOhZfoxS1VLUgU2pdk63efSjQaOJWdXMuAJsws+8I6dg==
 
-"@types/node@18.19.64":
-  version "18.19.64"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.19.64.tgz#122897fb79f2a9ec9c979bded01c11461b2b1478"
-  integrity sha512-955mDqvO2vFf/oL7V3WiUtiz+BugyX8uVbaT2H8oj3+8dRyH2FLiNdowe7eNqRM7IOIZvzDH76EoAT+gwm6aIQ==
+"@types/node@18.19.68":
+  version "18.19.68"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.19.68.tgz#f4f10d9927a7eaf3568c46a6d739cc0967ccb701"
+  integrity sha512-QGtpFH1vB99ZmTa63K4/FU8twThj4fuVSBkGddTp7uIL/cuoLWIUSL2RcOaigBhfR+hg5pgGkBnkoOxrTVBMKw==
   dependencies:
     undici-types "~5.26.4"
 
